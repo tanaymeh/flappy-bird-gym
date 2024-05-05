@@ -36,7 +36,7 @@ short_description = "An OpenAI gym environment for the Flappy Bird game."
 # The compatible release operator (`~=`) is used to match any candidate version
 # that is expected to be compatible with the specified version.
 REQUIRED_PACKAGES = [
-    "gym ~= 0.26.2",
+    "gym ~= 0.22",
     "numpy ~= 1.26.4",
     "pygame ~= 2.5.2",
 ]
